@@ -1,0 +1,34 @@
+{
+  "day_tasks": [
+    {
+      "id": 1,
+      "task": "sport",
+      "priority": "7",
+      "time_to_spend": 30
+    },
+    {
+      "id": 2,
+      "task": "stading_IT",
+      "priority": "8",
+      "time_to_spend": 90
+    },
+    {
+      "id": 3,
+      "task": "cooking",
+      "priority": "6",
+      "time_to_spend": 80
+    },
+    {
+      "id": 4,
+      "task": "familly_time",
+      "priority": "9",
+      "time_to_spend": 120
+    },
+    {
+      "id": 5,
+      "task": "relax",
+      "priority": "5",
+      "time_to_spend": 30
+    }
+  ]
+}
